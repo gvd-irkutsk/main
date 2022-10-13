@@ -1,6 +1,9 @@
 # gvd-irkutsk
 Первичный репозиторий Иркутской группы обработки данных Baikal-GVD
 
+### Данные
+https://cloud.apiisu.ru/s/CG3Q4K4WMjB5rwB
+
 ### Ссылки на полезные материалы:
 Материалы летней школы https://git.jinr.ru/baikal_school/materials-2022  
 Репозиторий по моделированию https://git.jinr.ru/Baikal/generators  
