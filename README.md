@@ -9,6 +9,7 @@ https://cloud.apiisu.ru/s/3rBTpwGTpRJFEPo
 Репозиторий по моделированию https://git.jinr.ru/Baikal/generators  
 Документация BARS https://bars-docs.jinr.ru/  
 Дополнительная документация https://wiki-baikal.jinr.ru/en/home
+Документация по файлам .wout https://wiki-baikal.jinr.ru/en/data-analysis/simulation/wout-format
 
 ### Статьи
 ANTARES обработка первой гирлянды https://arxiv.org/ftp/arxiv/papers/0812/0812.2095.pdf  
