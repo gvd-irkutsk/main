@@ -8,7 +8,7 @@ https://cloud.apiisu.ru/s/3rBTpwGTpRJFEPo
 Материалы летней школы https://git.jinr.ru/baikal_school/materials-2022  
 Репозиторий по моделированию https://git.jinr.ru/Baikal/generators  
 Документация BARS https://bars-docs.jinr.ru/  
-Дополнительная документация https://wiki-baikal.jinr.ru/en/home
+Дополнительная документация https://wiki-baikal.jinr.ru/en/home  
 Документация по файлам .wout https://wiki-baikal.jinr.ru/en/data-analysis/simulation/wout-format
 
 ### Статьи
