@@ -13,5 +13,7 @@ https://cloud.apiisu.ru/s/3rBTpwGTpRJFEPo
 
 ### Статьи
 ANTARES обработка первой гирлянды https://arxiv.org/ftp/arxiv/papers/0812/0812.2095.pdf  
+ANTARES Fast reconstruction algoritm (рекомендовал Заборов) https://arxiv.org/pdf/1105.4116.pdf
+ANTARES Статья об осцилляциях нейтрино https://arxiv.org/pdf/1812.08650.pdf
 AMANDA восстановление мюонного трека https://arxiv.org/pdf/astro-ph/0407044.pdf  
 IceCube восстановление низкоэнергетичных событий https://arxiv.org/pdf/2203.02303.pdf
