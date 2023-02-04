@@ -19,3 +19,8 @@ AMANDA восстановление мюонного трека https://arxiv.or
 IceCube восстановление низкоэнергетичных событий https://arxiv.org/pdf/2203.02303.pdf  
 Baikal-GVD с гиперболами Selection techniques of neutrino-induced cascades in the
 Baikal-GVD neutrino telescope / PoS
+
+### Описание установки 
+Оптический модуль http://www1.jinr.ru/Pepan_letters/panl_2016_6/02_avrorin.pdf 
+Система сбора данных https://link.springer.com/content/pdf/10.1134/S002044121403004X.pdf?pdf=button
+
