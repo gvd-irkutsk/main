@@ -2,7 +2,7 @@
 Первичный репозиторий Иркутской группы обработки данных Baikal-GVD
 
 ### Данные
-Выборка Raw, на которой мы первоначально работали https://cloud.apiisu.ru/s/3rBTpwGTpRJFEPo
+Выборка Raw, на которой мы первоначально работали https://cloud.apiisu.ru/s/3rBTpwGTpRJFEPo  
 EOS https://jupyter.jinr.ru/
 
 ### Ссылки на полезные материалы:
