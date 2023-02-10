@@ -2,13 +2,14 @@
 Первичный репозиторий Иркутской группы обработки данных Baikal-GVD
 
 ### Данные
-https://cloud.apiisu.ru/s/3rBTpwGTpRJFEPo
+Выборка Raw, на которой мы первоначально работали https://cloud.apiisu.ru/s/3rBTpwGTpRJFEPo
+EOS https://jupyter.jinr.ru/
 
 ### Ссылки на полезные материалы:
 Материалы летней школы https://git.jinr.ru/baikal_school/materials-2022  
 Репозиторий по моделированию https://git.jinr.ru/Baikal/generators  
-Документация BARS https://bars-docs.jinr.ru/  
-Дополнительная документация https://wiki-baikal.jinr.ru/en/home  
+Документация BARS (частично неактуальная) https://bars-docs.jinr.ru/  
+Дополнительная документация https://wiki-baikal.jinr.ru/en/ho  
 Документация по файлам .wout https://wiki-baikal.jinr.ru/en/data-analysis/simulation/wout-format
 
 ### Статьи по реконструкции
@@ -20,8 +21,7 @@ IceCube восстановление низкоэнергетичных собы
 Baikal-GVD с гиперболами Selection techniques of neutrino-induced cascades in the
 Baikal-GVD neutrino telescope / PoS
 
-### Описание установки 
+### Baikal-GVD
 Event Display https://gvd-dashboard.jinr.ru/event-view/event-view/  
 Оптический модуль http://www1.jinr.ru/Pepan_letters/panl_2016_6/02_avrorin.pdf  
 Система сбора данных https://link.springer.com/content/pdf/10.1134/S002044121403004X.pdf?pdf=button
-
