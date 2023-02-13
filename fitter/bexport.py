@@ -3,6 +3,7 @@ import os
 import subprocess
 
 # feeds bexport-mc with packs of files
+# usage: python bexport.py --in /path/to/input/directory --out /path/to/output/directory
 
 parser = argparse.ArgumentParser(description='Process multiple input files using bexport-mc.')
 
