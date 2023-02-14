@@ -24,4 +24,8 @@ Baikal-GVD neutrino telescope / PoS
 ### Baikal-GVD
 Event Display https://gvd-dashboard.jinr.ru/event-view/event-view/  
 Оптический модуль http://www1.jinr.ru/Pepan_letters/panl_2016_6/02_avrorin.pdf  
-Система сбора данных https://link.springer.com/content/pdf/10.1134/S002044121403004X.pdf?pdf=button
+Система сбора данных https://link.springer.com/content/pdf/10.1134/S002044121403004X.pdf?pdf=button  
+
+### Литература  
+Обзор по мюонам Петрухин http://www1.jinr.ru/Pepan/v-49-4/29_petrukhin.pdf
+
